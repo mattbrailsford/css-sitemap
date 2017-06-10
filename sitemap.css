@@ -243,8 +243,8 @@ ul, li {
 }
 
 /* --- Widths --- */
-.primary ul > li > a,
-.primary ul > li > ul > li,
+.primary > ul > li > a,
+.primary > ul > li > ul > li,
 .secondary li a {
 	width: 220px;
 }
