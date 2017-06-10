@@ -1,6 +1,8 @@
 # css-sitemap
 CSS stylesheet for generating a visual sitemap inspired by [SlickMap](https://github.com/astuteo/slickmap)
 
+[DEMO](https://mattbrailsford.github.io/css-sitemap/index.html)
+
 ![CSS Sitemap](https://pbs.twimg.com/media/DAmLGLIXUAEUjtR.jpg:large)
 
 ## TODO
