@@ -1,6 +1,8 @@
 # css-sitemap
 CSS stylesheet for generating a visual sitemap inspired by [SlickMap](https://github.com/astuteo/slickmap)
 
+![CSS Sitemap](https://pbs.twimg.com/media/DAmLGLIXUAEUjtR.jpg:large)
+
 ## TODO
 - [ ] Make responsive?
 - [ ] Add fontawesome (or alternative) icon support
