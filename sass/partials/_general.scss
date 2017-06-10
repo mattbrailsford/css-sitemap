@@ -1,0 +1,43 @@
+
+/* ------------------------------------------------------------
+  General Styles
+------------------------------------------------------------ */
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background: #f9fafc;
+  color: #333;
+  font-family: "proxima-nova", sans-serif;
+  font-size: 12px;
+  line-height: 1;
+}
+
+h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin: 0 0 5px 0;
+}
+
+h2 {
+  font-family: "Lucida Grande", Verdana, sans-serif;
+  font-size: 10px;
+  color: #777777;
+  margin: 0 0 40px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol, ul {
+  list-style: none;
+}
+
