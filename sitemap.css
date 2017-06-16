@@ -246,6 +246,19 @@ ul, li {
 .primary ul ul ul ul ul li a { border-top-color: #9b59b6; }
 .primary ul ul ul ul ul li a:before, .primary ul ul ul ul ul li .fa { color: #9b59b6; }
 
+/* --- Type colours --- */
+
+.primary .type1 { border-top-color: #e74c3c; }
+.primary .type1:before, .primary .type1 .fa { color: #e74c3c; }
+.primary .type2 { border-top-color: #3498db; }
+.primary .type2:before, .primary .type2 .fa { color: #3498db; }
+.primary .type3 { border-top-color: #2ecc71; }
+.primary .type3:before, .primary .type3 .fa { color: #2ecc71; }
+.primary .type4 { border-top-color: #e67e22; }
+.primary .type4:before, .primary .type4 .fa { color: #e67e22; }
+.primary .type5 { border-top-color: #9b59b6; }
+.primary .type5:before, .primary .type5 .fa { color: #9b59b6; }
+
 /* --- Secondary --- */
 .secondary {
 	display: block;
